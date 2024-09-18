@@ -1,0 +1,114 @@
+categories:
+  groceries:
+    - "BLR SHOP N"
+    - "BLR Gipermarket"
+    - "BLR Supermarket"
+    - "EVROOPT"
+    - "DORORS"
+    - "Gippo"
+    - "SANTA"
+    - "SOSEDI"
+    - "Yagodka"
+    - "ZABKA"
+    - "GROSHYK"
+    - "MAXIMA"
+  eat-outside-delivery:
+    - "BLR MINI-KAFE"
+    - "BLR KAFE-PEK"
+    - "BLR KONDIT.SHOP"
+    - "BLR KSB"
+    - "COFFEE"
+    - "Cafe"
+    - "Caffee"
+    - "Caffeine"
+    - "KAFE"
+    - "KOFEJNJA"
+    - "KAFEKONDITERSKAYA"
+    - "BAKERY"
+    - "YANDEX.EDA"
+    - "PAPA DONE"
+    - "BURGER"
+    - "Shtrudel i CAVA"
+    - "McDonalds"
+    - "Viktori Restora" # Mac.by
+    - "Restora"
+    - "Godzilla"
+    - "TERRI"
+    - "Dominospitstsa"
+    - "DOMINOSPIZZA"
+    - "PIZZA"
+    - "NOODLES"
+    - "EMBASI"
+    - "SHAURMA"
+    - "VINO PARITET"
+    - "RAMEN"
+    - "Bistro"
+    - "Taste"
+    - "SUFUDGRUPP" # Food court
+    - "FORMOSA" # Bubble tea
+    - "PON-PUSHKA" # Donuts
+    - "VAFLI"
+  mother:
+  transport:
+    - "BLR TRANSPORT"
+    - "YANDEX.GO"
+    - "PAYBYCARD.BY"
+    - "UBER"
+  housing:
+    - "WILDBERRIES"
+    - "SPRINTER" # printing center
+    - "PECHAT"
+    - "aliexpress"
+    - "CUM MINSK" # Central Univermag
+    - "MILA"
+    - "PKF EOSLYUKS" # EOS beds
+  health-appearance:
+    - "BLR APTEKA"
+    - "BLR PT BELFARMATSIYA"
+    - "BLR MEDICINSKIY CENTR"
+    - "APTEKA"
+    - "BELLEROFON APTE"
+    - "APTE"
+    - "LINEA ALYBA"
+    - "MEZHDUNARODNAYA" # Helix, Synevo
+    - "Pharm"
+  devices-accessories:
+  network-wifi:
+    - "BELTELECOM"
+    - "ORANGE FLEX"
+  gifts-charity:
+    - "RYZHOVAYA KVETKA" # Flowers
+    - "ZOLOTOE YABL" # Golden apple
+    - "ZIKO" # Accessories, gold, silver
+  soft-subscriptions:
+    - "APPLE.COM/BILL"
+    - "USA SURFSHARK"
+    - "USA GOOGLE"
+    - "YouTube"
+    - "plus.yandex"
+    - "1PASSWORD"
+    - "USA MIDJOURNEY"
+  clothes-shoes:
+    - "BLR MAGAZIN ODEZhDY"
+    - "SIMONA"
+    - "MARK FORMEL"
+    - "ZARA"
+  exceptionable:
+  gym-sauna:
+    - "ZA ZHIM"
+    - "Squash club Drive"
+  education-self-development:
+    - "USA UDEMY ONLINE COURSES"
+    - "USA PLURALSIGHT"
+    - "BLR KNIZH.SHOP"
+  travel:
+    - "DUTY FREE"
+    - "RESIDENCE" # Hotel
+    - "museum"
+    - "NTERCARS"
+    - "Hotel"
+    - "Booking"
+  payment-via-mobile-bank:
+    - "BLR MOBILE BANK"
+  payment-via-erip:
+    - "BLR SOU INTERNETBANK"
