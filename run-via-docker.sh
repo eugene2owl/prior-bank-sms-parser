@@ -5,5 +5,5 @@ docker run \
   --rm \
   --name prior-bank-sms-parser-container \
   -e BANK_SMS_PDF_FILE_PATH=./Priorbank.pdf \
-  -v ~/prior-bank-sms-parser-generated:/app/generated \
+  -v ./generated-from-docker:/app/generated \
   prior-bank-sms-parser-image
