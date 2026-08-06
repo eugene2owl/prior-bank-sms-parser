@@ -12,4 +12,4 @@
 ```
 
 ## Environment variables
-* `BANK_SMS_PDF_FILE_PATH` - path to PDF file with SMS messages from bank
+* `BANK_SMS_PDF_FILE_PATH` - path to PDF file with SMS messages from bank.
